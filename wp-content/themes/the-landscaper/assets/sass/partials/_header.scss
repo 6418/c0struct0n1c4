@@ -1,0 +1,134 @@
+/*--------------------------------------------------------------
+5.0 Header
+--------------------------------------------------------------*/
+
+.header {
+
+	@media(min-width: $screen-md) {
+		position: relative;
+		background-color: #3a3a3a;
+	}
+}
+
+body {
+
+	// no-topbar class
+	&.no-topbar {
+
+		.header-default {
+
+			.navigation {
+
+				@media (min-width: $screen-md) {
+					position: absolute;
+					top: 30px;
+					width: ($container-md - 30px);
+				}
+
+				@media(min-width: $screen-lg) {
+					width: ($container-lg - 30px);
+				}
+			}
+		}
+
+		&.fixed-navigation {
+
+			.header-default {
+
+				.navigation {
+
+					&.is-sticky {
+
+						@media (min-width: $screen-md) {
+							position: fixed;
+						}
+					}
+				}
+
+				.sticky-offset {
+					height: 0px!important; // only used in this specific case to overrule the inline style height
+				}
+			}
+		}
+	}
+
+	// is-sticky-nav class
+	&.is-sticky-nav {
+
+		.navigation {
+
+			@media(min-width: $screen-md) {
+				position: fixed;
+				top: 0;
+			}
+		}
+
+		.header-default {
+
+			.navigation {
+
+				&.is-sticky {
+
+					@media(min-width: $screen-md) {
+						width: ($container-md - 30px);
+					}
+
+					@media(min-width: $screen-lg) {
+						width: ($container-lg - 30px);
+					}
+				}
+			}
+		}
+
+		// If WP admin bar is visible
+		&.admin-bar {
+
+			.navigation {
+
+				@media(min-width: $screen-md) {
+					top: 32px;
+				}
+			}
+		}
+	}
+}
+
+// Offset if sticky nav is used
+.sticky-offset {
+	display: none;
+}
+
+body.fixed-navigation {
+
+	.navigation {
+
+		&.is-sticky {
+
+			+ .sticky-offset {
+
+				@media (min-width: $screen-md) {
+					display: block;
+				}
+			}
+		}
+	}
+
+	&.admin-bar {
+
+		.navigation {
+
+			&.is-sticky {
+				top: 32px;
+			}
+		}
+	}
+}
+
+// Header Wide Layout
+@import "partials/headers/header-wide";
+
+// Header Sidebar Layout
+@import "partials/headers/header-sidebar";
+
+// Header Transparent Layout
+@import "partials/headers/header-transparent";

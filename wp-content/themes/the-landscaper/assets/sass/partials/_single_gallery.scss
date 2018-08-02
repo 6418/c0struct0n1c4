@@ -1,0 +1,170 @@
+/*--------------------------------------------------------------
+13.0 Single Gallery
+--------------------------------------------------------------*/
+
+// Gallery gap settings
+.gallery-gap-1 {
+	margin: -0.5px;
+
+	.gallery-item { 
+		padding: 0.5px;
+	}
+}
+
+.gallery-gap-2 {
+	margin: -1px;
+
+	.gallery-item {
+		padding: 1px;
+	}
+}
+
+.gallery-gap-3 {
+	margin: -1.5px;
+
+	.gallery-item {
+		padding: 1.5px;
+	}
+}
+
+.gallery-gap-4 {
+	margin: -2px;
+
+	.gallery-item {
+		padding: 2px;
+	}
+}
+
+.gallery-gap-5 {
+	margin: -2.5px;
+
+	.gallery-item {
+		padding: 2.5px;
+	}
+}
+
+.gallery-gap-10 {
+	margin: -5px;
+
+	.gallery-item {
+		padding: 5px;
+	}
+}
+
+.gallery-gap-15 {
+	margin: -7.5px;
+
+	.gallery-item {
+		padding: 7.5px;
+	}
+}
+
+.gallery-gap-20 {
+	margin: -10px -10px 20px -10px;
+
+	.gallery-item {
+		padding: 10px;
+	}
+}
+
+.gallery-gap-25 {
+	margin: -12.5px -12.5px 25px -12.5px;
+
+	.gallery-item {
+		padding: 12.5px;
+	}
+}
+
+.gallery-gap-30 {
+	margin: -15px -15px 30px -15px;
+
+	.gallery-item {
+		padding: 15px;
+	}
+}
+
+.gallery-gap-35 {
+	margin: -17.5px -17.5px 35px -17.5px ;
+
+	.gallery-item {
+		padding: 17.5px;
+	}
+}
+
+// Gallery images field
+.gallery-field {
+
+	.image {
+		display: block;
+		position: relative;
+		overflow: hidden;
+
+		img {
+			width: 100%;
+			height: auto;
+		}
+		
+		.overlay {
+			position: absolute;
+			display: block;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			text-align: center;
+			vertical-align: middle;
+			background-color: rgba(0,0,0,0.5);
+			opacity: 0;
+			transition: all 0.2s ease-out;
+			
+			&::before {
+				position: absolute;
+				top: calc(50% - 14px);
+				left: calc(50% - 8px);
+				content: "\f00e";
+				font-family: "FontAwesome";
+				font-size: 18px;
+				color: $white-color;
+			}
+		}
+
+		&:hover {
+
+			.overlay {
+				opacity: 1;
+				visibility: visible;
+			}
+		}
+	}
+}
+
+body.single-portfolio {
+
+	&.gallery-layout-split {
+
+		.gallery-field-wrapper,
+		.gallery-extra {
+			margin-bottom: 30px;
+		}
+	}
+
+	&:not(.gallery-layout-split) {
+		
+		.gallery-field-wrapper,
+		.gallery-extra,
+		.gallery-content {
+			margin-bottom: 40px;
+		}
+	}
+
+	.gallery-field {
+
+		.gallery-item {
+
+			@media (max-width: $screen-sm) {
+				float: none;
+				width: 100%;
+			}
+		}
+	}
+}

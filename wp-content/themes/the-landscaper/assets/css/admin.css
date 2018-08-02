@@ -1,0 +1,77 @@
+
+/* Widget Social Links */
+.qt-meta-box {
+	padding: 1px 15px 15px 15px;
+	margin: 20px 0px;
+	background-color: #f9f9f9;
+	border: 1px solid #dfdfdf;
+}
+
+/* Widget Testimonials */
+.js-remove-testimonial {
+	text-decoration: none;
+}
+.js-remove-testimonial span {
+	margin-right: 5px;
+}
+.testimonial-widget-child {
+	padding: 10px 20px;
+	margin-bottom: 20px;
+	background-color: #f9f9f9;
+	border: 1px solid #dfdfdf;
+}
+
+textarea {
+	max-width: 100%;
+}
+
+/* TGMPA plugin notice */
+#setting-error-tgmpa,
+.subsubsub {
+	float: none;
+}
+
+/* ACF fields CSS */
+body .acf-fields > .acf-field { 
+	padding: 20px 30px;
+}
+body .acf-fields > .acf-field[data-name="subtitle"] {
+	padding: 5px 12px;
+}
+body .acf-tab-wrap.-left .acf-tab-group li a {
+	padding: 14px 12px;
+}
+body .acf-field .acf-label p {
+	font-size: 12px;
+}
+
+/* !important to make overwrite default styles */
+body .acf-fields.-sidebar {
+	padding-left: 180px!important;
+}
+body .acf-fields.-sidebar:before {
+	width: 180px!important;
+}
+body .acf-tab-wrap.-left .acf-tab-group {
+	width: 180px!important;
+}
+
+/* Widgets */
+#topbar-widgets p.icon-layout {
+	display: none;
+}
+
+/* Theme customizer controls */
+li.customize-control {
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #dfdfdf;
+}
+li.customize-control:last-of-type {
+	padding-bottom: 0;
+	border-bottom: none;
+}
+li.customize-control .description {
+	margin-bottom: 15px;
+	margin-top: -3px;
+}

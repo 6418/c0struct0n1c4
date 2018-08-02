@@ -1,0 +1,85 @@
+/*--------------------------------------------------------------
+Header Wide
+--------------------------------------------------------------*/
+
+.header-wide {
+
+	.navbar-header {
+
+		@media(max-width: $screen-md) {
+			margin: 0;
+		}
+
+		.navbar-brand {
+
+			@media(min-width: $screen-md) {
+				padding-left: 0;
+			}
+		}
+	}
+
+	/* Bootstrap fix */
+	.container > .navbar-collapse {
+		margin: 0;
+	}
+
+	.navigation {
+		margin-bottom: 0;
+	}
+
+	.main-navigation {
+
+		@media(min-width: $screen-md) {
+			position: relative;
+			float: right;
+			padding-right: 0;
+			
+			&::after {
+				position: absolute;
+				content: "";
+				top: 0;
+				right: -100%;
+				width: 100%;
+				min-height: 100%;
+				background-color: $primary-color;
+			}
+		}
+	}
+}
+
+body {
+
+	// boxed + sticky nav + header wide
+	&.boxed {
+
+		&.is-sticky-nav {
+
+			.header-wide {
+
+				.navigation {
+
+					&.is-sticky {
+
+						@media (min-width: $screen-md) {
+							width: 1050px;
+						}
+
+						@media (min-width: $screen-lg) {
+							width: 1250px;
+						}
+					}
+				}
+
+				.main-navigation {
+
+					&::after {
+
+						@media (min-width: $screen-md) {
+							right: -55px;
+						}
+					}
+				}
+			}
+		}
+	}
+}

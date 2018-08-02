@@ -1,0 +1,2824 @@
+# Copyright (C) 2018 QreativeThemes
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: The Landscaper 1.5.\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2018-04-16 12:33:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: inc/widgets/widget-testimonials.php:193
+#: the-landscaper/inc/widgets/widget-testimonials.php:193
+msgid "1"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:194
+#: the-landscaper/inc/widgets/widget-testimonials.php:194
+msgid "2"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:195
+#: the-landscaper/inc/widgets/widget-testimonials.php:195
+msgid "3"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:196
+#: the-landscaper/inc/widgets/widget-testimonials.php:196
+msgid "4"
+msgstr ""
+
+#: comments.php:31 comments.php:42 the-landscaper/comments.php:31
+#: the-landscaper/comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:51 the-landscaper/comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:101 the-landscaper/functions.php:101
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:102 the-landscaper/functions.php:102
+msgid "Services Menu"
+msgstr ""
+
+#: functions.php:103 the-landscaper/functions.php:103
+msgid "Footer Menu"
+msgstr ""
+
+#: headers/header-default.php:30 headers/header-sidebar.php:29
+#: headers/header-transparent.php:33 headers/header-wide.php:29
+#: the-landscaper/headers/header-default.php:30
+#: the-landscaper/headers/header-sidebar.php:29
+#: the-landscaper/headers/header-transparent.php:33
+#: the-landscaper/headers/header-wide.php:29
+msgid "MENU"
+msgstr ""
+
+#: inc/custom-comments.php:18 the-landscaper/inc/custom-comments.php:18
+msgid "Pingback:"
+msgstr ""
+
+#: inc/custom-comments.php:18 inc/custom-comments.php:41
+#: the-landscaper/inc/custom-comments.php:18
+#: the-landscaper/inc/custom-comments.php:41
+msgid "(Edit)"
+msgstr ""
+
+#: inc/custom-comments.php:29 the-landscaper/inc/custom-comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/custom-comments.php:39 the-landscaper/inc/custom-comments.php:39
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:10
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:10
+msgid "Topbar background color"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:11
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:11
+msgid "Change the background color of the topbar"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:24
+#: inc/customizer-settings/header-transparent-settings.php:53
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:24
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:53
+msgid "Topbar text color"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:25
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:25
+msgid "Change the text color of the topbar"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:39
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:39
+msgid "Sticky navigation"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:40
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:40
+msgid "Enable the sticky navigation"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:45
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:45
+msgid "Static"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:46
+#: inc/widgets/widget-recent-posts-block.php:132 loop/blog/grid.php:29
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:46
+#: the-landscaper/inc/widgets/widget-recent-posts-block.php:132
+#: the-landscaper/loop/blog/grid.php:29
+msgid "Sticky"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:57
+#: inc/customizer-settings/header-transparent-settings.php:24
+#: inc/customizer.php:528 inc/customizer.php:621
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:57
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:24
+#: the-landscaper/inc/customizer.php:528
+msgid "Background color"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:58
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:58
+msgid "Change the navigation background color"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:70
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:70
+msgid "Left side background color"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:71
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:71
+msgid "Change the left side navigation background color"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:83
+#: inc/customizer-settings/header-sidebar-settings.php:64
+#: inc/customizer-settings/header-transparent-settings.php:97
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:83
+#: the-landscaper/inc/customizer-settings/header-sidebar-settings.php:64
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:97
+msgid "Link color"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:84
+#: inc/customizer-settings/header-sidebar-settings.php:65
+#: inc/customizer-settings/header-transparent-settings.php:98
+#: inc/customizer.php:325
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:84
+#: the-landscaper/inc/customizer-settings/header-sidebar-settings.php:65
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:98
+#: the-landscaper/inc/customizer.php:325
+msgid "Change the color of the parent links"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:95
+#: inc/customizer-settings/header-sidebar-settings.php:76
+#: inc/customizer-settings/header-transparent-settings.php:109
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:95
+#: the-landscaper/inc/customizer-settings/header-sidebar-settings.php:76
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:109
+msgid "Link hover color"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:96
+#: inc/customizer-settings/header-sidebar-settings.php:77
+#: inc/customizer-settings/header-transparent-settings.php:110
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:96
+#: the-landscaper/inc/customizer-settings/header-sidebar-settings.php:77
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:110
+msgid "Change the hover color of the parent links"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:108
+#: inc/customizer-settings/header-sidebar-settings.php:89
+#: inc/customizer-settings/header-transparent-settings.php:122
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:108
+#: the-landscaper/inc/customizer-settings/header-sidebar-settings.php:89
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:122
+msgid "Submenu background color"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:109
+#: inc/customizer-settings/header-sidebar-settings.php:90
+#: inc/customizer-settings/header-transparent-settings.php:123
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:109
+#: the-landscaper/inc/customizer-settings/header-sidebar-settings.php:90
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:123
+msgid "Change the background color of the submenu's"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:121
+#: inc/customizer-settings/header-sidebar-settings.php:102
+#: inc/customizer-settings/header-transparent-settings.php:135
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:121
+#: the-landscaper/inc/customizer-settings/header-sidebar-settings.php:102
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:135
+msgid "Submenu link color"
+msgstr ""
+
+#: inc/customizer-settings/header-default-settings.php:122
+#: inc/customizer-settings/header-sidebar-settings.php:103
+#: inc/customizer-settings/header-transparent-settings.php:136
+#: the-landscaper/inc/customizer-settings/header-default-settings.php:122
+#: the-landscaper/inc/customizer-settings/header-sidebar-settings.php:103
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:136
+msgid "Change the link color of the submenu's"
+msgstr ""
+
+#: inc/customizer-settings/header-sidebar-settings.php:9
+#: the-landscaper/inc/customizer-settings/header-sidebar-settings.php:9
+msgid "Header background color"
+msgstr ""
+
+#: inc/customizer-settings/header-sidebar-settings.php:10
+#: inc/customizer-settings/header-transparent-settings.php:11
+#: inc/customizer-settings/header-transparent-settings.php:25
+#: the-landscaper/inc/customizer-settings/header-sidebar-settings.php:10
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:11
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:25
+msgid "Change the background color of the header"
+msgstr ""
+
+#: inc/customizer-settings/header-sidebar-settings.php:23
+#: inc/customizer.php:593 inc/customizer.php:651 inc/customizer.php:1233
+#: the-landscaper/inc/customizer-settings/header-sidebar-settings.php:23
+#: the-landscaper/inc/customizer.php:593 the-landscaper/inc/customizer.php:651
+#: the-landscaper/inc/customizer.php:1233
+msgid "Text color"
+msgstr ""
+
+#: inc/customizer-settings/header-sidebar-settings.php:24
+#: the-landscaper/inc/customizer-settings/header-sidebar-settings.php:24
+msgid "Change the text color of the header"
+msgstr ""
+
+#: inc/customizer-settings/header-sidebar-settings.php:38
+#: the-landscaper/inc/customizer-settings/header-sidebar-settings.php:38
+msgid "Navigation background color"
+msgstr ""
+
+#: inc/customizer-settings/header-sidebar-settings.php:39
+#: the-landscaper/inc/customizer-settings/header-sidebar-settings.php:39
+msgid "Change the background color of the navigation"
+msgstr ""
+
+#: inc/customizer-settings/header-sidebar-settings.php:51
+#: the-landscaper/inc/customizer-settings/header-sidebar-settings.php:51
+msgid "Active & hover line"
+msgstr ""
+
+#: inc/customizer-settings/header-sidebar-settings.php:52
+#: the-landscaper/inc/customizer-settings/header-sidebar-settings.php:52
+msgid "Change the color of the active and hover line"
+msgstr ""
+
+#: inc/customizer-settings/header-transparent-settings.php:10
+#: inc/customizer.php:311
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:10
+#: the-landscaper/inc/customizer.php:311
+msgid "Mobile background color"
+msgstr ""
+
+#: inc/customizer-settings/header-transparent-settings.php:38
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:38
+msgid "Header background opacity"
+msgstr ""
+
+#: inc/customizer-settings/header-transparent-settings.php:39
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:39
+msgid "Define a value between 0 and 1, e.g. 0.5"
+msgstr ""
+
+#: inc/customizer-settings/header-transparent-settings.php:54
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:54
+msgid "Change the text color of topbar"
+msgstr ""
+
+#: inc/customizer-settings/header-transparent-settings.php:69
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:69
+msgid "Sticky background color"
+msgstr ""
+
+#: inc/customizer-settings/header-transparent-settings.php:70
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:70
+msgid "Change the background color of the sticky navigation"
+msgstr ""
+
+#: inc/customizer-settings/header-transparent-settings.php:83
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:83
+msgid "Sticky background opacity"
+msgstr ""
+
+#: inc/customizer-settings/header-transparent-settings.php:84
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:84
+msgid "Add a value between 0 and 1, e.g. 0.5"
+msgstr ""
+
+#: inc/customizer-settings/header-transparent-settings.php:148
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:148
+msgid "Submenu top border color"
+msgstr ""
+
+#: inc/customizer-settings/header-transparent-settings.php:149
+#: the-landscaper/inc/customizer-settings/header-transparent-settings.php:149
+msgid "Change the top border color of the submenu's"
+msgstr ""
+
+#: inc/customizer.php:56 the-landscaper/inc/customizer.php:56
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:62 the-landscaper/inc/customizer.php:62
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:67 inc/theme-sidebars.php:23
+#: the-landscaper/inc/customizer.php:67
+#: the-landscaper/inc/theme-sidebars.php:23
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:72 the-landscaper/inc/customizer.php:72
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer.php:77 the-landscaper/inc/customizer.php:77
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer.php:78 the-landscaper/inc/customizer.php:78
+msgid "Color settings for the homepage slider"
+msgstr ""
+
+#: inc/customizer.php:83 the-landscaper/inc/customizer.php:83
+msgid "Page Header"
+msgstr ""
+
+#: inc/customizer.php:88 inc/customizer.php:557
+#: the-landscaper/inc/customizer.php:88 the-landscaper/inc/customizer.php:557
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer.php:93 the-landscaper/inc/customizer.php:93
+msgid "Layout &amp; Colors"
+msgstr ""
+
+#: inc/customizer.php:98 the-landscaper/inc/customizer.php:98
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer.php:103 the-landscaper/inc/customizer.php:103
+msgid "Single Gallery"
+msgstr ""
+
+#: inc/customizer.php:104 the-landscaper/inc/customizer.php:104
+msgid "Gallery settings for the single gallery posts"
+msgstr ""
+
+#: inc/customizer.php:110 the-landscaper/inc/customizer.php:110
+msgid "Shop"
+msgstr ""
+
+#: inc/customizer.php:116 inc/theme-sidebars.php:61
+#: the-landscaper/inc/customizer.php:116
+#: the-landscaper/inc/theme-sidebars.php:61
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:121 the-landscaper/inc/customizer.php:121
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer.php:122 the-landscaper/inc/customizer.php:122
+msgid ""
+"If you're looking for more advanced font controls please install the %s "
+"plugin or use the child theme to enqueue custom fonts"
+msgstr ""
+
+#: inc/customizer.php:127 the-landscaper/inc/customizer.php:127
+msgid "404 Page"
+msgstr ""
+
+#: inc/customizer.php:132 the-landscaper/inc/customizer.php:132
+msgid "Custom"
+msgstr ""
+
+#: inc/customizer.php:133 the-landscaper/inc/customizer.php:133
+msgid ""
+"It is recommended to type custom CSS in a text editor and then paste it "
+"into the field below"
+msgstr ""
+
+#: inc/customizer.php:147 the-landscaper/inc/customizer.php:147
+msgid "Theme logo"
+msgstr ""
+
+#: inc/customizer.php:148 the-landscaper/inc/customizer.php:148
+msgid "Recommended logo height is 90 pixels"
+msgstr ""
+
+#: inc/customizer.php:162 the-landscaper/inc/customizer.php:162
+msgid "Theme logo retina (2x)"
+msgstr ""
+
+#: inc/customizer.php:163 the-landscaper/inc/customizer.php:163
+msgid ""
+"Please do not upload the regular logo here. Only add a logo that is exact "
+"2x the size of the regular logo"
+msgstr ""
+
+#: inc/customizer.php:176 the-landscaper/inc/customizer.php:176
+msgid "Theme logo transparent"
+msgstr ""
+
+#: inc/customizer.php:177 the-landscaper/inc/customizer.php:177
+msgid "Transparent logo for the sidebar and transparent header layout"
+msgstr ""
+
+#: inc/customizer.php:190 the-landscaper/inc/customizer.php:190
+msgid "Theme logo retina transparent (2x)"
+msgstr ""
+
+#: inc/customizer.php:191 the-landscaper/inc/customizer.php:191
+msgid ""
+"Please do not upload the regular transparent logo here. Only add a logo "
+"that is exact 2x the size of the regular logo"
+msgstr ""
+
+#: inc/customizer.php:204 the-landscaper/inc/customizer.php:204
+msgid "Logo top margin"
+msgstr ""
+
+#: inc/customizer.php:205 the-landscaper/inc/customizer.php:205
+msgid "Change the logo top margin. Please don't include px"
+msgstr ""
+
+#: inc/customizer.php:222 the-landscaper/inc/customizer.php:222
+msgid "Logo width"
+msgstr ""
+
+#: inc/customizer.php:223 the-landscaper/inc/customizer.php:223
+msgid "Change the logo width. Please don't include px"
+msgstr ""
+
+#: inc/customizer.php:244 the-landscaper/inc/customizer.php:244
+msgid "Topbar"
+msgstr ""
+
+#: inc/customizer.php:245 the-landscaper/inc/customizer.php:245
+msgid "Show or hide the topbar"
+msgstr ""
+
+#: inc/customizer.php:250 inc/customizer.php:563 inc/customizer.php:775
+#: inc/customizer.php:813 inc/customizer.php:831 inc/customizer.php:849
+#: inc/customizer.php:1028 inc/customizer.php:1638
+#: the-landscaper/inc/customizer.php:250 the-landscaper/inc/customizer.php:563
+#: the-landscaper/inc/customizer.php:775 the-landscaper/inc/customizer.php:813
+#: the-landscaper/inc/customizer.php:831 the-landscaper/inc/customizer.php:849
+#: the-landscaper/inc/customizer.php:1028
+#: the-landscaper/inc/customizer.php:1638
+msgid "Show"
+msgstr ""
+
+#: inc/customizer.php:251 inc/customizer.php:564 inc/customizer.php:776
+#: inc/customizer.php:814 inc/customizer.php:832 inc/customizer.php:850
+#: inc/customizer.php:897 inc/customizer.php:1029 inc/customizer.php:1639
+#: the-landscaper/inc/customizer.php:251 the-landscaper/inc/customizer.php:564
+#: the-landscaper/inc/customizer.php:776 the-landscaper/inc/customizer.php:814
+#: the-landscaper/inc/customizer.php:832 the-landscaper/inc/customizer.php:850
+#: the-landscaper/inc/customizer.php:897 the-landscaper/inc/customizer.php:1029
+#: the-landscaper/inc/customizer.php:1639
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer.php:252
+msgid "Hide mobile only"
+msgstr ""
+
+#: inc/customizer.php:263 the-landscaper/inc/customizer.php:263
+msgid "Header layout"
+msgstr ""
+
+#: inc/customizer.php:269 the-landscaper/inc/customizer.php:269
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:270 the-landscaper/inc/customizer.php:270
+msgid "Wide"
+msgstr ""
+
+#: inc/customizer.php:271 the-landscaper/inc/customizer.php:271
+msgid "Transparent"
+msgstr ""
+
+#: inc/customizer.php:272 the-landscaper/inc/customizer.php:272
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer.php:292 the-landscaper/inc/customizer.php:292
+msgid "Enable doubletap touch laptop"
+msgstr ""
+
+#: inc/customizer.php:293 the-landscaper/inc/customizer.php:293
+msgid ""
+"When using a touch laptop the main navigation parent links will open the "
+"submenu on the first tab, the second tab will go to the actual page"
+msgstr ""
+
+#: inc/customizer.php:298 inc/widgets/widget-testimonials.php:203
+#: the-landscaper/inc/customizer.php:298
+#: the-landscaper/inc/widgets/widget-testimonials.php:203
+msgid "Yes"
+msgstr ""
+
+#: inc/customizer.php:299 inc/widgets/widget-testimonials.php:204
+#: the-landscaper/inc/customizer.php:299
+#: the-landscaper/inc/widgets/widget-testimonials.php:204
+msgid "No"
+msgstr ""
+
+#: inc/customizer.php:312 the-landscaper/inc/customizer.php:312
+msgid "Change the background color of the parent links"
+msgstr ""
+
+#: inc/customizer.php:324 the-landscaper/inc/customizer.php:324
+msgid "Mobile link color"
+msgstr ""
+
+#: inc/customizer.php:337 the-landscaper/inc/customizer.php:337
+msgid "Mobile submenu background color"
+msgstr ""
+
+#: inc/customizer.php:338 the-landscaper/inc/customizer.php:338
+msgid "Change the background color of the submenu links"
+msgstr ""
+
+#: inc/customizer.php:350 the-landscaper/inc/customizer.php:350
+msgid "Mobile submenu link color"
+msgstr ""
+
+#: inc/customizer.php:351 the-landscaper/inc/customizer.php:351
+msgid "Change the text color of the submenu links"
+msgstr ""
+
+#: inc/customizer.php:364 the-landscaper/inc/customizer.php:364
+msgid "Top heading color"
+msgstr ""
+
+#: inc/customizer.php:365 the-landscaper/inc/customizer.php:365
+msgid "Change the color of the small top heading"
+msgstr ""
+
+#: inc/customizer.php:376 the-landscaper/inc/customizer.php:376
+msgid "Heading color"
+msgstr ""
+
+#: inc/customizer.php:377 the-landscaper/inc/customizer.php:377
+msgid "Change the color of the heading"
+msgstr ""
+
+#: inc/customizer.php:388 the-landscaper/inc/customizer.php:388
+msgid "Content color"
+msgstr ""
+
+#: inc/customizer.php:389 inc/customizer.php:652
+#: the-landscaper/inc/customizer.php:389 the-landscaper/inc/customizer.php:652
+msgid "Change the color of the content texts"
+msgstr ""
+
+#: inc/customizer.php:400 the-landscaper/inc/customizer.php:400
+msgid "Primary button background color"
+msgstr ""
+
+#: inc/customizer.php:401 the-landscaper/inc/customizer.php:401
+msgid "Change the background color of the primary button"
+msgstr ""
+
+#: inc/customizer.php:412 the-landscaper/inc/customizer.php:412
+msgid "Primary button text color"
+msgstr ""
+
+#: inc/customizer.php:413 the-landscaper/inc/customizer.php:413
+msgid "Change the text color of the primary button"
+msgstr ""
+
+#: inc/customizer.php:424 the-landscaper/inc/customizer.php:424
+msgid "Controls background color"
+msgstr ""
+
+#: inc/customizer.php:425 the-landscaper/inc/customizer.php:425
+msgid "Change the background color of the slider controls"
+msgstr ""
+
+#: inc/customizer.php:436 the-landscaper/inc/customizer.php:436
+msgid "Control arrow color"
+msgstr ""
+
+#: inc/customizer.php:437 the-landscaper/inc/customizer.php:437
+msgid "Change the color of the slider controls icon"
+msgstr ""
+
+#: inc/customizer.php:448 the-landscaper/inc/customizer.php:448
+msgid "(Mobile) Caption background color"
+msgstr ""
+
+#: inc/customizer.php:449 the-landscaper/inc/customizer.php:449
+msgid "Change the background color of the slider captions on mobile"
+msgstr ""
+
+#: inc/customizer.php:463 the-landscaper/inc/customizer.php:463
+msgid "Page header"
+msgstr ""
+
+#: inc/customizer.php:464 the-landscaper/inc/customizer.php:464
+msgid "Show or hide the page header on all pages"
+msgstr ""
+
+#: inc/customizer.php:469 the-landscaper/inc/customizer.php:469
+msgid "Small"
+msgstr ""
+
+#: inc/customizer.php:470 the-landscaper/inc/customizer.php:470
+msgid "Large"
+msgstr ""
+
+#: inc/customizer.php:471 the-landscaper/inc/customizer.php:471
+msgid "Hide page header"
+msgstr ""
+
+#: inc/customizer.php:481 inc/customizer.php:574
+#: the-landscaper/inc/customizer.php:574
+msgid "Alignment"
+msgstr ""
+
+#: inc/customizer.php:482 the-landscaper/inc/customizer.php:482
+msgid "Change the alignment of the page header titles"
+msgstr ""
+
+#: inc/customizer.php:487 inc/customizer.php:580 inc/customizer.php:1151
+#: the-landscaper/inc/customizer.php:487 the-landscaper/inc/customizer.php:580
+#: the-landscaper/inc/customizer.php:1151
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:488 inc/customizer.php:581
+#: the-landscaper/inc/customizer.php:488 the-landscaper/inc/customizer.php:581
+msgid "Center"
+msgstr ""
+
+#: inc/customizer.php:489 inc/customizer.php:582 inc/customizer.php:1152
+#: the-landscaper/inc/customizer.php:489 the-landscaper/inc/customizer.php:582
+#: the-landscaper/inc/customizer.php:1152
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:500 the-landscaper/inc/customizer.php:500
+msgid "Page title color"
+msgstr ""
+
+#: inc/customizer.php:501 the-landscaper/inc/customizer.php:501
+msgid "Change the color of the page title"
+msgstr ""
+
+#: inc/customizer.php:514 the-landscaper/inc/customizer.php:514
+msgid "Subtitle color"
+msgstr ""
+
+#: inc/customizer.php:515 the-landscaper/inc/customizer.php:515
+msgid "Change the color of the subtitle"
+msgstr ""
+
+#: inc/customizer.php:529 the-landscaper/inc/customizer.php:529
+msgid "Change the background color of the page header"
+msgstr ""
+
+#: inc/customizer.php:542 inc/customizer.php:1278
+#: the-landscaper/inc/customizer.php:542 the-landscaper/inc/customizer.php:1278
+msgid "Background pattern"
+msgstr ""
+
+#: inc/customizer.php:543 the-landscaper/inc/customizer.php:543
+msgid "Add a background image to the page header"
+msgstr ""
+
+#: inc/customizer.php:558 the-landscaper/inc/customizer.php:558
+msgid "Show or hide the breadcrumbs on all pages"
+msgstr ""
+
+#: inc/customizer.php:575 the-landscaper/inc/customizer.php:575
+msgid "Change the alignment of the breadcrumbs"
+msgstr ""
+
+#: inc/customizer.php:594 the-landscaper/inc/customizer.php:594
+msgid "Change the color of the breadcrumb links"
+msgstr ""
+
+#: inc/customizer.php:607 the-landscaper/inc/customizer.php:607
+msgid "Active color"
+msgstr ""
+
+#: inc/customizer.php:608 the-landscaper/inc/customizer.php:608
+msgid "Change the color of the active breadcrumb link"
+msgstr ""
+
+#: inc/customizer.php:622 the-landscaper/inc/customizer.php:622
+msgid "Change the background color of the breadcrumbs"
+msgstr ""
+
+#: inc/customizer.php:637 the-landscaper/inc/customizer.php:637
+msgid "Content background color"
+msgstr ""
+
+#: inc/customizer.php:638 the-landscaper/inc/customizer.php:638
+msgid "Change the background color of the content area"
+msgstr ""
+
+#: inc/customizer.php:665 the-landscaper/inc/customizer.php:665
+msgid "Primary color"
+msgstr ""
+
+#: inc/customizer.php:666 the-landscaper/inc/customizer.php:666
+msgid "Change the primary color scheme"
+msgstr ""
+
+#: inc/customizer.php:679 the-landscaper/inc/customizer.php:679
+msgid "Button background color"
+msgstr ""
+
+#: inc/customizer.php:680 the-landscaper/inc/customizer.php:680
+msgid "Change the background color of the button"
+msgstr ""
+
+#: inc/customizer.php:693 the-landscaper/inc/customizer.php:693
+msgid "Button text color"
+msgstr ""
+
+#: inc/customizer.php:694 the-landscaper/inc/customizer.php:694
+msgid "Change the text color of the button"
+msgstr ""
+
+#: inc/customizer.php:707 inc/customizer.php:1248
+#: the-landscaper/inc/customizer.php:707 the-landscaper/inc/customizer.php:1248
+msgid "Widget title color"
+msgstr ""
+
+#: inc/customizer.php:708 the-landscaper/inc/customizer.php:708
+msgid "Change the color of the widget titles"
+msgstr ""
+
+#: inc/customizer.php:721 the-landscaper/inc/customizer.php:721
+msgid "First word in widget title"
+msgstr ""
+
+#: inc/customizer.php:722 the-landscaper/inc/customizer.php:722
+msgid "Change the color of the first word in widget titles"
+msgstr ""
+
+#: inc/customizer.php:734 the-landscaper/inc/customizer.php:734
+msgid "Boxed layout"
+msgstr ""
+
+#: inc/customizer.php:735 the-landscaper/inc/customizer.php:735
+msgid "Enable the boxed layout"
+msgstr ""
+
+#: inc/customizer.php:740 inc/customizer.php:794 inc/customizer.php:1170
+#: inc/customizer.php:1187 inc/customizer.php:1204
+#: the-landscaper/inc/customizer.php:740 the-landscaper/inc/customizer.php:794
+#: the-landscaper/inc/customizer.php:1170
+#: the-landscaper/inc/customizer.php:1187
+#: the-landscaper/inc/customizer.php:1204
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer.php:741 inc/customizer.php:793 inc/customizer.php:1169
+#: inc/customizer.php:1186 inc/customizer.php:1203
+#: the-landscaper/inc/customizer.php:741 the-landscaper/inc/customizer.php:793
+#: the-landscaper/inc/customizer.php:1169
+#: the-landscaper/inc/customizer.php:1186
+#: the-landscaper/inc/customizer.php:1203
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer.php:751 the-landscaper/inc/customizer.php:751
+msgid "Theme border style"
+msgstr ""
+
+#: inc/customizer.php:752 the-landscaper/inc/customizer.php:752
+msgid "Change the border style of the widget titles"
+msgstr ""
+
+#: inc/customizer.php:757 the-landscaper/inc/customizer.php:757
+msgid "Solid"
+msgstr ""
+
+#: inc/customizer.php:758 the-landscaper/inc/customizer.php:758
+msgid "Dashed"
+msgstr ""
+
+#: inc/customizer.php:759 the-landscaper/inc/customizer.php:759
+msgid "Dotted"
+msgstr ""
+
+#: inc/customizer.php:769 the-landscaper/inc/customizer.php:769
+msgid "Scroll to top button"
+msgstr ""
+
+#: inc/customizer.php:770 the-landscaper/inc/customizer.php:770
+msgid "Enable the scroll to top button"
+msgstr ""
+
+#: inc/customizer.php:787 the-landscaper/inc/customizer.php:787
+msgid "Essential Grid color"
+msgstr ""
+
+#: inc/customizer.php:788 the-landscaper/inc/customizer.php:788
+msgid ""
+"The primary color will be applied to the 'The Landscaper' essential grid "
+"skins"
+msgstr ""
+
+#: inc/customizer.php:807
+msgid "Display metadata"
+msgstr ""
+
+#: inc/customizer.php:808
+msgid "Show or hide the post metadata"
+msgstr ""
+
+#: inc/customizer.php:825 the-landscaper/inc/customizer.php:825
+msgid "Display large date"
+msgstr ""
+
+#: inc/customizer.php:826 the-landscaper/inc/customizer.php:826
+msgid "For blog posts in the list layout"
+msgstr ""
+
+#: inc/customizer.php:843 the-landscaper/inc/customizer.php:843
+msgid "Display comment section"
+msgstr ""
+
+#: inc/customizer.php:844 the-landscaper/inc/customizer.php:844
+msgid "Show or hide the comment section for all blog posts"
+msgstr ""
+
+#: inc/customizer.php:860 the-landscaper/inc/customizer.php:860
+msgid "Read more text"
+msgstr ""
+
+#: inc/customizer.php:861
+msgid "Change the read more link text of the blog posts"
+msgstr ""
+
+#: inc/customizer.php:873 the-landscaper/inc/customizer.php:873
+msgid "Custom excerpt length"
+msgstr ""
+
+#: inc/customizer.php:874 the-landscaper/inc/customizer.php:874
+msgid ""
+"Set a custom length for all blog excerpt text. This will overrule the "
+"default read more tag"
+msgstr ""
+
+#: inc/customizer.php:887 the-landscaper/inc/customizer.php:887
+msgid "Display the share buttons"
+msgstr ""
+
+#: inc/customizer.php:888 the-landscaper/inc/customizer.php:888
+msgid "Add social share buttons at the bottom of the post/page"
+msgstr ""
+
+#: inc/customizer.php:893
+msgid "All pages &amp; posts"
+msgstr ""
+
+#: inc/customizer.php:894
+msgid "Only on blog posts"
+msgstr ""
+
+#: inc/customizer.php:895
+msgid "Only on pages"
+msgstr ""
+
+#: inc/customizer.php:896
+msgid "Only on single gallery pages"
+msgstr ""
+
+#: inc/customizer.php:908 the-landscaper/inc/customizer.php:908
+msgid "Share tooltip text"
+msgstr ""
+
+#: inc/customizer.php:922 the-landscaper/inc/customizer.php:922
+msgid "Twitter button text"
+msgstr ""
+
+#: inc/customizer.php:936 the-landscaper/inc/customizer.php:936
+msgid "Facebook button text"
+msgstr ""
+
+#: inc/customizer.php:950 the-landscaper/inc/customizer.php:950
+msgid "Google+ button text"
+msgstr ""
+
+#: inc/customizer.php:964 the-landscaper/inc/customizer.php:964
+msgid "LinkedIn button text"
+msgstr ""
+
+#: inc/customizer.php:980 the-landscaper/inc/customizer.php:980
+msgid "Position of the page title"
+msgstr ""
+
+#: inc/customizer.php:985 the-landscaper/inc/customizer.php:985
+msgid "Show Actual Item Title"
+msgstr ""
+
+#: inc/customizer.php:986 the-landscaper/inc/customizer.php:986
+msgid "Show Custom Title"
+msgstr ""
+
+#: inc/customizer.php:997 the-landscaper/inc/customizer.php:997
+msgid "Gallery page title"
+msgstr ""
+
+#: inc/customizer.php:998 the-landscaper/inc/customizer.php:998
+msgid "Display if above option isset to custom title"
+msgstr ""
+
+#: inc/customizer.php:1010 the-landscaper/inc/customizer.php:1010
+msgid "Gallery subtitle"
+msgstr ""
+
+#: inc/customizer.php:1011 the-landscaper/inc/customizer.php:1011
+msgid "Display if subtitle field on specific post is empty"
+msgstr ""
+
+#: inc/customizer.php:1023 the-landscaper/inc/customizer.php:1023
+msgid "Display gallery navigation"
+msgstr ""
+
+#: inc/customizer.php:1040 the-landscaper/inc/customizer.php:1040
+msgid "Previous button text"
+msgstr ""
+
+#: inc/customizer.php:1053 the-landscaper/inc/customizer.php:1053
+msgid "Next button text"
+msgstr ""
+
+#: inc/customizer.php:1065 the-landscaper/inc/customizer.php:1065
+msgid "Gallery summary link"
+msgstr ""
+
+#: inc/customizer.php:1078 the-landscaper/inc/customizer.php:1078
+msgid "Gallery summary text"
+msgstr ""
+
+#: inc/customizer.php:1091 the-landscaper/inc/customizer.php:1091
+msgid "Gallery URL slug"
+msgstr ""
+
+#: inc/customizer.php:1092 inc/customizer.php:1105
+#: the-landscaper/inc/customizer.php:1092
+#: the-landscaper/inc/customizer.php:1105
+msgid ""
+"After changing this setting please go to Settings > Permalinks and save the "
+"page"
+msgstr ""
+
+#: inc/customizer.php:1104 the-landscaper/inc/customizer.php:1104
+msgid "Gallery category URL slug"
+msgstr ""
+
+#: inc/customizer.php:1117 the-landscaper/inc/customizer.php:1117
+msgid "Gallery category title"
+msgstr ""
+
+#: inc/customizer.php:1118 the-landscaper/inc/customizer.php:1118
+msgid "Prefix for the gallery category page title"
+msgstr ""
+
+#: inc/customizer.php:1133 the-landscaper/inc/customizer.php:1133
+msgid "Products per page"
+msgstr ""
+
+#: inc/customizer.php:1145 the-landscaper/inc/customizer.php:1145
+msgid "Single product page sidebar"
+msgstr ""
+
+#: inc/customizer.php:1150 the-landscaper/inc/customizer.php:1150
+msgid "No sidebar"
+msgstr ""
+
+#: inc/customizer.php:1163 the-landscaper/inc/customizer.php:1163
+msgid "Single product image zoom"
+msgstr ""
+
+#: inc/customizer.php:1164 the-landscaper/inc/customizer.php:1164
+msgid "Use the WooCommerce product image zoom. Changes are visible on the front-end"
+msgstr ""
+
+#: inc/customizer.php:1180 the-landscaper/inc/customizer.php:1180
+msgid "Single product image lightbox"
+msgstr ""
+
+#: inc/customizer.php:1181 the-landscaper/inc/customizer.php:1181
+msgid ""
+"Use the WooCommerce product image lightbox. Changes are visible on the "
+"front-end"
+msgstr ""
+
+#: inc/customizer.php:1197 the-landscaper/inc/customizer.php:1197
+msgid "Single product image gallery slider"
+msgstr ""
+
+#: inc/customizer.php:1198 the-landscaper/inc/customizer.php:1198
+msgid ""
+"Use the WooCommerce product image gallery slider. Changes are visible on "
+"the front-end"
+msgstr ""
+
+#: inc/customizer.php:1219 the-landscaper/inc/customizer.php:1219
+msgid "Footer columns"
+msgstr ""
+
+#: inc/customizer.php:1220
+msgid ""
+"Select how many columns you want to use in the footer. Select 0 to hide the "
+"footer"
+msgstr ""
+
+#: inc/customizer.php:1234 the-landscaper/inc/customizer.php:1234
+msgid "Change the text color of the footer"
+msgstr ""
+
+#: inc/customizer.php:1249 the-landscaper/inc/customizer.php:1249
+msgid "Change the widget title color of the footer"
+msgstr ""
+
+#: inc/customizer.php:1263 the-landscaper/inc/customizer.php:1263
+msgid "Footer background color"
+msgstr ""
+
+#: inc/customizer.php:1264 the-landscaper/inc/customizer.php:1264
+msgid "Change the background color of the footer"
+msgstr ""
+
+#: inc/customizer.php:1279 the-landscaper/inc/customizer.php:1279
+msgid "Change the background image of the footer"
+msgstr ""
+
+#: inc/customizer.php:1293 the-landscaper/inc/customizer.php:1293
+msgid "Bottom footer background color"
+msgstr ""
+
+#: inc/customizer.php:1294 the-landscaper/inc/customizer.php:1294
+msgid "Change the background color of the bottom footer"
+msgstr ""
+
+#: inc/customizer.php:1308 the-landscaper/inc/customizer.php:1308
+msgid "Bottom footer text color"
+msgstr ""
+
+#: inc/customizer.php:1309 the-landscaper/inc/customizer.php:1309
+msgid "Change the text color of the bottom footer"
+msgstr ""
+
+#: inc/customizer.php:1323 the-landscaper/inc/customizer.php:1323
+msgid "Bottom footer link color"
+msgstr ""
+
+#: inc/customizer.php:1324 the-landscaper/inc/customizer.php:1324
+msgid "Change the link color of the bottom footer"
+msgstr ""
+
+#: inc/customizer.php:1337 the-landscaper/inc/customizer.php:1337
+msgid "Bottom footer left text"
+msgstr ""
+
+#: inc/customizer.php:1338 the-landscaper/inc/customizer.php:1338
+msgid "Add a text to the left side of the bottom footer"
+msgstr ""
+
+#: inc/customizer.php:1351 the-landscaper/inc/customizer.php:1351
+msgid "Bottom footer middle text"
+msgstr ""
+
+#: inc/customizer.php:1352 the-landscaper/inc/customizer.php:1352
+msgid "Add a text to the middle of the bottom footer"
+msgstr ""
+
+#: inc/customizer.php:1365 the-landscaper/inc/customizer.php:1365
+msgid "Bottom footer right text"
+msgstr ""
+
+#: inc/customizer.php:1366 the-landscaper/inc/customizer.php:1366
+msgid "Add a text to the right side of the bottom footer"
+msgstr ""
+
+#: inc/customizer.php:1384 the-landscaper/inc/customizer.php:1384
+msgid "Primary font"
+msgstr ""
+
+#: inc/customizer.php:1385 the-landscaper/inc/customizer.php:1385
+msgid "Font used for body text and navigation"
+msgstr ""
+
+#: inc/customizer.php:1399 the-landscaper/inc/customizer.php:1399
+msgid "Primary font size"
+msgstr ""
+
+#: inc/customizer.php:1400 inc/customizer.php:1452 inc/customizer.php:1472
+#: inc/customizer.php:1492 inc/customizer.php:1512 inc/customizer.php:1532
+#: inc/customizer.php:1552 inc/customizer.php:1572
+#: the-landscaper/inc/customizer.php:1400
+#: the-landscaper/inc/customizer.php:1452
+#: the-landscaper/inc/customizer.php:1472
+#: the-landscaper/inc/customizer.php:1492
+#: the-landscaper/inc/customizer.php:1512
+#: the-landscaper/inc/customizer.php:1532
+#: the-landscaper/inc/customizer.php:1552
+#: the-landscaper/inc/customizer.php:1572
+msgid "Please don't include px in your string"
+msgstr ""
+
+#: inc/customizer.php:1418 the-landscaper/inc/customizer.php:1418
+msgid "Secondary font"
+msgstr ""
+
+#: inc/customizer.php:1419 the-landscaper/inc/customizer.php:1419
+msgid "Font used for the headings and titles"
+msgstr ""
+
+#: inc/customizer.php:1433 the-landscaper/inc/customizer.php:1433
+msgid "Change heading sizes?"
+msgstr ""
+
+#: inc/customizer.php:1434 the-landscaper/inc/customizer.php:1434
+msgid "Set custom sizes for headings"
+msgstr ""
+
+#: inc/customizer.php:1451 the-landscaper/inc/customizer.php:1451
+msgid "Widget title size"
+msgstr ""
+
+#: inc/customizer.php:1471 the-landscaper/inc/customizer.php:1471
+msgid "Header 1 (H1) size"
+msgstr ""
+
+#: inc/customizer.php:1491 the-landscaper/inc/customizer.php:1491
+msgid "Header 2 (H2) size"
+msgstr ""
+
+#: inc/customizer.php:1511 the-landscaper/inc/customizer.php:1511
+msgid "Header 3 (H3) size"
+msgstr ""
+
+#: inc/customizer.php:1531 the-landscaper/inc/customizer.php:1531
+msgid "Header 4 (H4) size"
+msgstr ""
+
+#: inc/customizer.php:1551 the-landscaper/inc/customizer.php:1551
+msgid "Header 5 (H5) size"
+msgstr ""
+
+#: inc/customizer.php:1571 the-landscaper/inc/customizer.php:1571
+msgid "Header 6 (H6) size"
+msgstr ""
+
+#: inc/customizer.php:1593 the-landscaper/inc/customizer.php:1593
+msgid "404 page image"
+msgstr ""
+
+#: inc/customizer.php:1594 the-landscaper/inc/customizer.php:1594
+msgid ""
+"To reach the 404 page navigate to a page that don't exisint via the browser "
+"domain bar"
+msgstr ""
+
+#: inc/customizer.php:1607 the-landscaper/inc/customizer.php:1607
+msgid "404 page text heading"
+msgstr ""
+
+#: inc/customizer.php:1620 the-landscaper/inc/customizer.php:1620
+msgid "404 page text"
+msgstr ""
+
+#: inc/customizer.php:1633 the-landscaper/inc/customizer.php:1633
+msgid "404 page search bar"
+msgstr ""
+
+#: inc/customizer.php:1651 the-landscaper/inc/customizer.php:1651
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:1663 the-landscaper/inc/customizer.php:1663
+msgid "Custom header JS"
+msgstr ""
+
+#: inc/customizer.php:1664 inc/customizer.php:1677
+#: the-landscaper/inc/customizer.php:1664
+#: the-landscaper/inc/customizer.php:1677
+msgid "Please use the <script></script> tags"
+msgstr ""
+
+#: inc/customizer.php:1676 the-landscaper/inc/customizer.php:1676
+msgid "Custom footer JS"
+msgstr ""
+
+#: inc/customizer.php:1690 the-landscaper/inc/customizer.php:1690
+msgid "Google Maps API key"
+msgstr ""
+
+#: inc/customizer.php:1691 the-landscaper/inc/customizer.php:1691
+msgid "Enter your Google Maps API key. Create one %s"
+msgstr ""
+
+#: inc/theme-actions.php:32
+msgid ""
+"Each layout have specific color options. Please select the header layout, "
+"then change the colors of the header and navigation"
+msgstr ""
+
+#: inc/theme-actions.php:35 the-landscaper/inc/theme-actions.php:36
+msgid ""
+"If you use the Max Mega Menu plugin please also set the correct Mega Menu "
+"layout for the selected header layout via the Appearance > Menu's > Max "
+"Mega Menu Settings > Theme"
+msgstr ""
+
+#: inc/theme-filters.php:149 the-landscaper/inc/theme-filters.php:149
+msgid "READ MORE"
+msgstr ""
+
+#: inc/theme-filters.php:165 the-landscaper/inc/theme-filters.php:165
+msgid "Heading 1"
+msgstr ""
+
+#: inc/theme-filters.php:170 the-landscaper/inc/theme-filters.php:170
+msgid "Heading 2"
+msgstr ""
+
+#: inc/theme-filters.php:175 the-landscaper/inc/theme-filters.php:175
+msgid "Heading 3"
+msgstr ""
+
+#: inc/theme-filters.php:180 the-landscaper/inc/theme-filters.php:180
+msgid "Heading 4"
+msgstr ""
+
+#: inc/theme-filters.php:185 the-landscaper/inc/theme-filters.php:185
+msgid "Heading 5"
+msgstr ""
+
+#: inc/theme-filters.php:190 the-landscaper/inc/theme-filters.php:190
+msgid "Heading 6"
+msgstr ""
+
+#: inc/theme-filters.php:198 the-landscaper/inc/theme-filters.php:198
+msgid "QT: Custom Headings"
+msgstr ""
+
+#: inc/theme-filters.php:257 the-landscaper/inc/theme-filters.php:257
+msgid "White Widget Title"
+msgstr ""
+
+#: inc/theme-filters.php:258 the-landscaper/inc/theme-filters.php:258
+msgid "Use white colored widget title"
+msgstr ""
+
+#: inc/theme-filters.php:265 the-landscaper/inc/theme-filters.php:265
+msgid "Text Center"
+msgstr ""
+
+#: inc/theme-filters.php:266 the-landscaper/inc/theme-filters.php:266
+msgid "Center all text in widget"
+msgstr ""
+
+#: inc/theme-filters.php:273 the-landscaper/inc/theme-filters.php:273
+msgid "Border Widget"
+msgstr ""
+
+#: inc/theme-filters.php:274 the-landscaper/inc/theme-filters.php:274
+msgid "Set a border around the widget"
+msgstr ""
+
+#: inc/theme-filters.php:281 the-landscaper/inc/theme-filters.php:281
+msgid "Border Widget + Title"
+msgstr ""
+
+#: inc/theme-filters.php:282 the-landscaper/inc/theme-filters.php:282
+msgid "Set a border around the widget and use a slightly smaller title"
+msgstr ""
+
+#: inc/theme-filters.php:326 the-landscaper/inc/theme-filters.php:326
+msgid "Galleries"
+msgstr ""
+
+#: inc/theme-filters.php:327 the-landscaper/inc/theme-filters.php:327
+msgid "Gallery"
+msgstr ""
+
+#: inc/theme-filters.php:328 inc/theme-filters.php:329
+#: inc/theme-filters.php:331 the-landscaper/inc/theme-filters.php:328
+#: the-landscaper/inc/theme-filters.php:329
+#: the-landscaper/inc/theme-filters.php:331
+msgid "Add New Gallery"
+msgstr ""
+
+#: inc/theme-filters.php:330 the-landscaper/inc/theme-filters.php:330
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/theme-filters.php:332 the-landscaper/inc/theme-filters.php:332
+msgid "View Gallery"
+msgstr ""
+
+#: inc/theme-filters.php:333 the-landscaper/inc/theme-filters.php:333
+msgid "Search Galleries"
+msgstr ""
+
+#: inc/theme-filters.php:334 the-landscaper/inc/theme-filters.php:334
+msgid "No galleries found"
+msgstr ""
+
+#: inc/theme-filters.php:335 the-landscaper/inc/theme-filters.php:335
+msgid "No galleries found in trash"
+msgstr ""
+
+#: inc/theme-filters.php:353 the-landscaper/inc/theme-filters.php:353
+msgid "Gallery Categories"
+msgstr ""
+
+#: inc/theme-filters.php:373 the-landscaper/inc/theme-filters.php:373
+msgid "Gallery Tags"
+msgstr ""
+
+#: inc/theme-sidebars.php:12 the-landscaper/inc/theme-sidebars.php:12
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/theme-sidebars.php:14 the-landscaper/inc/theme-sidebars.php:14
+msgid "Sidebar on the blog page."
+msgstr ""
+
+#: inc/theme-sidebars.php:25 the-landscaper/inc/theme-sidebars.php:25
+msgid "Widget area in the Topbar for Contact Info"
+msgstr ""
+
+#: inc/theme-sidebars.php:32 the-landscaper/inc/theme-sidebars.php:32
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/theme-sidebars.php:34 the-landscaper/inc/theme-sidebars.php:34
+msgid "Sidebar on regular pages"
+msgstr ""
+
+#: inc/theme-sidebars.php:44 the-landscaper/inc/theme-sidebars.php:44
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/theme-sidebars.php:46 the-landscaper/inc/theme-sidebars.php:46
+msgid "Sidebar for the shop page"
+msgstr ""
+
+#: inc/theme-sidebars.php:63 the-landscaper/inc/theme-sidebars.php:63
+msgid ""
+"Change column amount at: Appearance &gt; Customize &gt; QT: Theme Options "
+"&gt; Footer."
+msgstr ""
+
+#: inc/widgets/widget-brochure.php:17
+#: the-landscaper/inc/widgets/widget-brochure.php:17
+msgid "QT: Brochure"
+msgstr ""
+
+#: inc/widgets/widget-brochure.php:19
+#: the-landscaper/inc/widgets/widget-brochure.php:19
+msgid "Upload a Brochure"
+msgstr ""
+
+#: inc/widgets/widget-brochure.php:97 inc/widgets/widget-cta-button.php:92
+#: inc/widgets/widget-facebook.php:114 inc/widgets/widget-opening-hours.php:162
+#: inc/widgets/widget-testimonials.php:186
+#: the-landscaper/inc/widgets/widget-brochure.php:97
+#: the-landscaper/inc/widgets/widget-cta-button.php:92
+#: the-landscaper/inc/widgets/widget-facebook.php:114
+#: the-landscaper/inc/widgets/widget-opening-hours.php:162
+#: the-landscaper/inc/widgets/widget-testimonials.php:186
+msgid "Widget Title"
+msgstr ""
+
+#: inc/widgets/widget-brochure.php:101 inc/widgets/widget-count-box.php:119
+#: inc/widgets/widget-cta-button.php:96 inc/widgets/widget-icon-box.php:99
+#: the-landscaper/inc/widgets/widget-brochure.php:101
+#: the-landscaper/inc/widgets/widget-count-box.php:119
+#: the-landscaper/inc/widgets/widget-cta-button.php:96
+#: the-landscaper/inc/widgets/widget-icon-box.php:99
+msgid "Icon"
+msgstr ""
+
+#: inc/widgets/widget-brochure.php:102 inc/widgets/widget-count-box.php:119
+#: inc/widgets/widget-cta-button.php:96 inc/widgets/widget-icon-box.php:99
+#: the-landscaper/inc/widgets/widget-brochure.php:102
+#: the-landscaper/inc/widgets/widget-count-box.php:119
+#: the-landscaper/inc/widgets/widget-cta-button.php:96
+#: the-landscaper/inc/widgets/widget-icon-box.php:99
+msgid "See %s for all icon classes (example: fa-home)"
+msgstr ""
+
+#: inc/widgets/widget-brochure.php:106
+#: the-landscaper/inc/widgets/widget-brochure.php:106
+msgid "File"
+msgstr ""
+
+#: inc/widgets/widget-brochure.php:111 inc/widgets/widget-cta-button.php:100
+#: the-landscaper/inc/widgets/widget-brochure.php:111
+#: the-landscaper/inc/widgets/widget-cta-button.php:100
+msgid "Text on Button"
+msgstr ""
+
+#: inc/widgets/widget-brochure.php:116
+#: the-landscaper/inc/widgets/widget-brochure.php:116
+msgid "Open link in new browser tab"
+msgstr ""
+
+#: inc/widgets/widget-count-box.php:17
+#: the-landscaper/inc/widgets/widget-count-box.php:17
+msgid "QT: CountTo Box"
+msgstr ""
+
+#: inc/widgets/widget-count-box.php:19
+#: the-landscaper/inc/widgets/widget-count-box.php:19
+msgid "Box with number counter"
+msgstr ""
+
+#: inc/widgets/widget-count-box.php:107
+#: the-landscaper/inc/widgets/widget-count-box.php:107
+msgid "Count Unit Before (Optional)"
+msgstr ""
+
+#: inc/widgets/widget-count-box.php:111
+#: the-landscaper/inc/widgets/widget-count-box.php:111
+msgid "Count To Number"
+msgstr ""
+
+#: inc/widgets/widget-count-box.php:115
+#: the-landscaper/inc/widgets/widget-count-box.php:115
+msgid "Count Unit After (Optional)"
+msgstr ""
+
+#: inc/widgets/widget-count-box.php:123 inc/widgets/widget-icon-box.php:103
+#: the-landscaper/inc/widgets/widget-count-box.php:123
+#: the-landscaper/inc/widgets/widget-icon-box.php:103
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:17
+#: the-landscaper/inc/widgets/widget-cta-banner.php:17
+msgid "QT: Call To Action Banner"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:19
+#: the-landscaper/inc/widgets/widget-cta-banner.php:19
+msgid "A Call to Action Banner"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:110
+#: the-landscaper/inc/widgets/widget-cta-banner.php:110
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:115
+#: the-landscaper/inc/widgets/widget-cta-banner.php:115
+msgid "Text color:"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:120
+#: the-landscaper/inc/widgets/widget-cta-banner.php:120
+msgid "Subtitle:"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:125
+#: the-landscaper/inc/widgets/widget-cta-banner.php:125
+msgid "Subtitle color:"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:130
+#: the-landscaper/inc/widgets/widget-cta-banner.php:130
+msgid "Buttons:"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:134
+#: the-landscaper/inc/widgets/widget-cta-banner.php:134
+msgid "See %s how to use all button attributes"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:138 inc/widgets/widget-icon-box.php:119
+#: the-landscaper/inc/widgets/widget-cta-banner.php:138
+#: the-landscaper/inc/widgets/widget-icon-box.php:119
+msgid "Layout:"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:140
+#: the-landscaper/inc/widgets/widget-cta-banner.php:140
+msgid "Inline"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:141
+#: the-landscaper/inc/widgets/widget-cta-banner.php:141
+msgid "Block"
+msgstr ""
+
+#: inc/widgets/widget-cta-banner.php:147
+#: the-landscaper/inc/widgets/widget-cta-banner.php:147
+msgid ""
+"Please add the background image to the page builder row, instead of the "
+"widget settings. See %s how-to."
+msgstr ""
+
+#: inc/widgets/widget-cta-button.php:17
+#: the-landscaper/inc/widgets/widget-cta-button.php:17
+msgid "QT: Call To Action Button"
+msgstr ""
+
+#: inc/widgets/widget-cta-button.php:19
+#: the-landscaper/inc/widgets/widget-cta-button.php:19
+msgid "CTA Button with a Icon"
+msgstr ""
+
+#: inc/widgets/widget-cta-button.php:104 inc/widgets/widget-icon-box.php:111
+#: inc/widgets/widget-social-icons.php:163
+#: inc/widgets/widget-social-icons.php:168
+#: inc/widgets/widget-social-icons.php:173
+#: inc/widgets/widget-social-icons.php:178
+#: inc/widgets/widget-social-icons.php:183
+#: inc/widgets/widget-social-icons.php:188
+#: inc/widgets/widget-social-icons.php:193
+#: inc/widgets/widget-social-icons.php:198
+#: inc/widgets/widget-social-icons.php:203
+#: inc/widgets/widget-social-icons.php:208
+#: the-landscaper/inc/widgets/widget-cta-button.php:104
+#: the-landscaper/inc/widgets/widget-icon-box.php:111
+#: the-landscaper/inc/widgets/widget-social-icons.php:163
+#: the-landscaper/inc/widgets/widget-social-icons.php:168
+#: the-landscaper/inc/widgets/widget-social-icons.php:173
+#: the-landscaper/inc/widgets/widget-social-icons.php:178
+#: the-landscaper/inc/widgets/widget-social-icons.php:183
+#: the-landscaper/inc/widgets/widget-social-icons.php:188
+#: the-landscaper/inc/widgets/widget-social-icons.php:193
+#: the-landscaper/inc/widgets/widget-social-icons.php:198
+#: the-landscaper/inc/widgets/widget-social-icons.php:203
+#: the-landscaper/inc/widgets/widget-social-icons.php:208
+msgid "Link"
+msgstr ""
+
+#: inc/widgets/widget-cta-button.php:109
+#: the-landscaper/inc/widgets/widget-cta-button.php:109
+msgid "Open Links in New Browser Tab"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:17
+#: the-landscaper/inc/widgets/widget-facebook.php:17
+msgid "QT: Facebook"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:19
+#: the-landscaper/inc/widgets/widget-facebook.php:19
+msgid "Facebook Page Widget"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:118
+#: the-landscaper/inc/widgets/widget-facebook.php:118
+msgid "Facebook Page URL"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:122
+#: the-landscaper/inc/widgets/widget-facebook.php:122
+msgid "Height (in pixels)"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:126
+#: the-landscaper/inc/widgets/widget-facebook.php:126
+msgid "Width (in pixels)"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:131
+#: the-landscaper/inc/widgets/widget-facebook.php:131
+msgid "Hide cover photo in the header"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:135
+#: the-landscaper/inc/widgets/widget-facebook.php:135
+msgid "Show profile photos when friends like this"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:139
+#: the-landscaper/inc/widgets/widget-facebook.php:139
+msgid "Show posts from the Page's timeline"
+msgstr ""
+
+#: inc/widgets/widget-facebook.php:143
+#: the-landscaper/inc/widgets/widget-facebook.php:143
+msgid "Use the small header instead"
+msgstr ""
+
+#: inc/widgets/widget-featured-page.php:17
+#: the-landscaper/inc/widgets/widget-featured-page.php:17
+msgid "QT: Featured Page"
+msgstr ""
+
+#: inc/widgets/widget-featured-page.php:19
+#: the-landscaper/inc/widgets/widget-featured-page.php:19
+msgid "Feature a page"
+msgstr ""
+
+#: inc/widgets/widget-featured-page.php:132
+#: the-landscaper/inc/widgets/widget-featured-page.php:132
+msgid "Image and text can be edited on the page you're featuring. See %s how"
+msgstr ""
+
+#: inc/widgets/widget-featured-page.php:136
+#: inc/widgets/widget-recent-posts-block.php:279
+#: inc/widgets/widget-recent-posts-list.php:211
+#: the-landscaper/inc/widgets/widget-featured-page.php:136
+#: the-landscaper/inc/widgets/widget-recent-posts-block.php:279
+#: the-landscaper/inc/widgets/widget-recent-posts-list.php:211
+msgid "Select a page"
+msgstr ""
+
+#: inc/widgets/widget-featured-page.php:146
+#: the-landscaper/inc/widgets/widget-featured-page.php:146
+msgid "Link Text"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:17
+#: the-landscaper/inc/widgets/widget-google-map.php:17
+msgid "QT: Google Map"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:19
+#: the-landscaper/inc/widgets/widget-google-map.php:19
+msgid "Display a Google Map"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:129
+#: the-landscaper/inc/widgets/widget-google-map.php:129
+msgid "Google Maps requires an API key. See %s how to create one."
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:134
+#: the-landscaper/inc/widgets/widget-google-map.php:134
+msgid "Latitude of the location"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:134
+#: the-landscaper/inc/widgets/widget-google-map.php:134
+msgid "(You can find the latitude and longitude from %s )"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:139
+#: the-landscaper/inc/widgets/widget-google-map.php:139
+msgid "Longitude of the location:"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:144
+#: the-landscaper/inc/widgets/widget-google-map.php:144
+msgid "Title on Infobox: (Optional)"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:149
+#: the-landscaper/inc/widgets/widget-google-map.php:149
+msgid "Map Zoom:"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:158
+#: the-landscaper/inc/widgets/widget-google-map.php:158
+msgid "Map Type:"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:168
+#: the-landscaper/inc/widgets/widget-google-map.php:168
+msgid "Map Style:"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:177
+#: the-landscaper/inc/widgets/widget-google-map.php:177
+msgid "Height of map (in px):"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:182
+#: the-landscaper/inc/widgets/widget-google-map.php:182
+msgid "Custom Marker URL (Leave empty for default marker)"
+msgstr ""
+
+#: inc/widgets/widget-google-map.php:188
+#: the-landscaper/inc/widgets/widget-google-map.php:188
+msgid "Disable scrolling on mobile?"
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:16
+#: the-landscaper/inc/widgets/widget-icon-box.php:16
+msgid "QT: Icon Box"
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:18
+#: the-landscaper/inc/widgets/widget-icon-box.php:18
+msgid "Custom text with a Icon"
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:107
+#: the-landscaper/inc/widgets/widget-icon-box.php:107
+msgid "Text"
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:111
+#: the-landscaper/inc/widgets/widget-icon-box.php:111
+msgid "Optional"
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:116 inc/widgets/widget-social-icons.php:159
+#: the-landscaper/inc/widgets/widget-icon-box.php:116
+#: the-landscaper/inc/widgets/widget-social-icons.php:159
+msgid "Open link in new browser tab?"
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:121
+#: the-landscaper/inc/widgets/widget-icon-box.php:121
+msgid "Smaller Icon"
+msgstr ""
+
+#: inc/widgets/widget-icon-box.php:122
+#: the-landscaper/inc/widgets/widget-icon-box.php:122
+msgid "Big Icon"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:19
+#: the-landscaper/inc/widgets/widget-opening-hours.php:19
+msgid "QT: Opening Hours"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:21
+#: the-landscaper/inc/widgets/widget-opening-hours.php:21
+msgid "Opening Hours Widget"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:28
+#: the-landscaper/inc/widgets/widget-opening-hours.php:28
+msgid "Monday"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:29
+#: the-landscaper/inc/widgets/widget-opening-hours.php:29
+msgid "Tuesday"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:30
+#: the-landscaper/inc/widgets/widget-opening-hours.php:30
+msgid "Wednesday"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:31
+#: the-landscaper/inc/widgets/widget-opening-hours.php:31
+msgid "Thursday"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:32
+#: the-landscaper/inc/widgets/widget-opening-hours.php:32
+msgid "Friday"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:33
+#: the-landscaper/inc/widgets/widget-opening-hours.php:33
+msgid "Saturday"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:34
+#: the-landscaper/inc/widgets/widget-opening-hours.php:34
+msgid "Sunday"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:144
+#: the-landscaper/inc/widgets/widget-opening-hours.php:144
+msgid "Opening Hours"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:152
+#: the-landscaper/inc/widgets/widget-opening-hours.php:152
+msgid "We are closed"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:158
+#: the-landscaper/inc/widgets/widget-opening-hours.php:158
+msgid "Leave both fields empty to display the closed message"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:169
+#: the-landscaper/inc/widgets/widget-opening-hours.php:169
+msgid "From"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:171
+#: the-landscaper/inc/widgets/widget-opening-hours.php:171
+msgid "To"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:177
+#: the-landscaper/inc/widgets/widget-opening-hours.php:177
+msgid "Separator between opening hours"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:182
+#: the-landscaper/inc/widgets/widget-opening-hours.php:182
+msgid "Display text on closed days"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:188
+#: the-landscaper/inc/widgets/widget-opening-hours.php:188
+msgid "Highlight closed text?"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:192
+#: the-landscaper/inc/widgets/widget-opening-hours.php:192
+msgid "Extra Information"
+msgstr ""
+
+#: inc/widgets/widget-opening-hours.php:193
+#: the-landscaper/inc/widgets/widget-opening-hours.php:193
+msgid "Define lunchbreaks, holidays, vacations or extra information"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:17
+#: the-landscaper/inc/widgets/widget-recent-posts-block.php:17
+msgid "QT: Latest Blog Posts"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:19
+#: the-landscaper/inc/widgets/widget-recent-posts-block.php:19
+msgid "Displays Recent Blog Posts"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:57
+#: inc/widgets/widget-recent-posts-list.php:115
+#: the-landscaper/inc/widgets/widget-recent-posts-block.php:57
+#: the-landscaper/inc/widgets/widget-recent-posts-list.php:115
+msgid "More news"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:60
+#: the-landscaper/inc/widgets/widget-recent-posts-block.php:60
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:173
+#: the-landscaper/inc/widgets/widget-recent-posts-block.php:173
+msgid "No Posts Found"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:229
+#: inc/widgets/widget-recent-posts-list.php:167
+#: the-landscaper/inc/widgets/widget-recent-posts-block.php:229
+#: the-landscaper/inc/widgets/widget-recent-posts-list.php:167
+msgid "Widget Title:"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:233
+#: inc/widgets/widget-recent-posts-list.php:177
+#: the-landscaper/inc/widgets/widget-recent-posts-block.php:233
+#: the-landscaper/inc/widgets/widget-recent-posts-list.php:177
+msgid "Filter by Category"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:240
+#: inc/widgets/widget-recent-posts-list.php:184
+#: the-landscaper/inc/widgets/widget-recent-posts-block.php:240
+#: the-landscaper/inc/widgets/widget-recent-posts-list.php:184
+msgid "All Categories"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:245
+#: inc/widgets/widget-recent-posts-list.php:172
+#: the-landscaper/inc/widgets/widget-recent-posts-block.php:245
+#: the-landscaper/inc/widgets/widget-recent-posts-list.php:172
+msgid "Display number of posts:"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:249
+#: the-landscaper/inc/widgets/widget-recent-posts-block.php:249
+msgid "Column in a row"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:258
+#: inc/widgets/widget-recent-posts-list.php:196
+#: the-landscaper/inc/widgets/widget-recent-posts-block.php:258
+#: the-landscaper/inc/widgets/widget-recent-posts-list.php:196
+msgid "Hide Sticky Posts?"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:262
+#: inc/widgets/widget-recent-posts-list.php:201
+#: the-landscaper/inc/widgets/widget-recent-posts-block.php:262
+#: the-landscaper/inc/widgets/widget-recent-posts-list.php:201
+msgid "Hide Posts Date?"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:265
+#: the-landscaper/inc/widgets/widget-recent-posts-block.php:265
+msgid "Read Post Text"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:269
+#: the-landscaper/inc/widgets/widget-recent-posts-block.php:269
+msgid "More News Text"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-block.php:273
+#: inc/widgets/widget-recent-posts-list.php:205
+#: the-landscaper/inc/widgets/widget-recent-posts-block.php:273
+#: the-landscaper/inc/widgets/widget-recent-posts-list.php:205
+msgid "More News Links to:"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-list.php:17
+#: the-landscaper/inc/widgets/widget-recent-posts-list.php:17
+msgid "QT: Latest Blog Posts List"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-list.php:19
+#: the-landscaper/inc/widgets/widget-recent-posts-list.php:19
+msgid "Displays recent posts in a List"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-list.php:98 loop/blog/list.php:42
+#: single.php:43 the-landscaper/inc/widgets/widget-recent-posts-list.php:98
+#: the-landscaper/loop/blog/list.php:42 the-landscaper/single.php:43
+msgid "By"
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-list.php:109 loop/blog/grid.php:68
+#: loop/blog/list.php:69 search.php:25 single.php:89
+#: the-landscaper/inc/widgets/widget-recent-posts-list.php:109
+#: the-landscaper/loop/blog/grid.php:68 the-landscaper/loop/blog/list.php:69
+#: the-landscaper/search.php:25 the-landscaper/single.php:89
+msgid "Sorry, no results found."
+msgstr ""
+
+#: inc/widgets/widget-recent-posts-list.php:190
+#: the-landscaper/inc/widgets/widget-recent-posts-list.php:190
+msgid "Skip amount of posts:"
+msgstr ""
+
+#: inc/widgets/widget-social-icons.php:17
+#: the-landscaper/inc/widgets/widget-social-icons.php:17
+msgid "QT: Social Icons"
+msgstr ""
+
+#: inc/widgets/widget-social-icons.php:19
+#: the-landscaper/inc/widgets/widget-social-icons.php:19
+msgid "Social Media Icons"
+msgstr ""
+
+#: inc/widgets/widget-team-member.php:17
+#: the-landscaper/inc/widgets/widget-team-member.php:17
+msgid "QT: Team Member"
+msgstr ""
+
+#: inc/widgets/widget-team-member.php:19
+#: the-landscaper/inc/widgets/widget-team-member.php:19
+msgid "Team member widget for Page Builder or Sidebar"
+msgstr ""
+
+#: inc/widgets/widget-team-member.php:135
+#: the-landscaper/inc/widgets/widget-team-member.php:135
+msgid "Person Name"
+msgstr ""
+
+#: inc/widgets/widget-team-member.php:140
+#: the-landscaper/inc/widgets/widget-team-member.php:140
+msgid "Person Tag"
+msgstr ""
+
+#: inc/widgets/widget-team-member.php:145
+#: the-landscaper/inc/widgets/widget-team-member.php:145
+msgid "Person Image URL"
+msgstr ""
+
+#: inc/widgets/widget-team-member.php:151
+#: the-landscaper/inc/widgets/widget-team-member.php:151
+msgid "Person Description"
+msgstr ""
+
+#: inc/widgets/widget-team-member.php:156
+#: the-landscaper/inc/widgets/widget-team-member.php:156
+msgid "Link to URL (optional)"
+msgstr ""
+
+#: inc/widgets/widget-team-member.php:161
+#: the-landscaper/inc/widgets/widget-team-member.php:161
+msgid "Link to Text (optional)"
+msgstr ""
+
+#: inc/widgets/widget-team-member.php:166
+#: inc/widgets/widget-team-member.php:171
+#: inc/widgets/widget-team-member.php:176
+#: the-landscaper/inc/widgets/widget-team-member.php:166
+#: the-landscaper/inc/widgets/widget-team-member.php:171
+#: the-landscaper/inc/widgets/widget-team-member.php:176
+msgid "URL"
+msgstr ""
+
+#: inc/widgets/widget-team-member.php:181
+#: the-landscaper/inc/widgets/widget-team-member.php:181
+msgid "Email Address"
+msgstr ""
+
+#: inc/widgets/widget-team-member.php:187
+#: the-landscaper/inc/widgets/widget-team-member.php:187
+msgid "Open social links in new browser tab?"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:19
+#: the-landscaper/inc/widgets/widget-testimonials.php:19
+msgid "QT: Testimonials"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:21
+#: the-landscaper/inc/widgets/widget-testimonials.php:21
+msgid "Testomonial Widget"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:191
+#: the-landscaper/inc/widgets/widget-testimonials.php:191
+msgid "Show amount of testimonials in a row"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:201
+#: the-landscaper/inc/widgets/widget-testimonials.php:201
+msgid "Auto cycle carousel"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:209
+#: the-landscaper/inc/widgets/widget-testimonials.php:209
+msgid "Interval (in miliseconds)"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:215
+#: the-landscaper/inc/widgets/widget-testimonials.php:215
+msgid "Testimonials"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:219
+#: the-landscaper/inc/widgets/widget-testimonials.php:219
+msgid "Quote"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:223
+#: the-landscaper/inc/widgets/widget-testimonials.php:223
+msgid "Author"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:227
+#: the-landscaper/inc/widgets/widget-testimonials.php:227
+msgid "Author Location"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:232
+#: the-landscaper/inc/widgets/widget-testimonials.php:232
+msgid "Remove Testimonial"
+msgstr ""
+
+#: inc/widgets/widget-testimonials.php:238
+#: the-landscaper/inc/widgets/widget-testimonials.php:238
+msgid "Add New Testimonial"
+msgstr ""
+
+#: loop/blog/list.php:38 the-landscaper/loop/blog/list.php:38
+msgid "Comments"
+msgstr ""
+
+#: parts/main-title.php:115 the-landscaper/parts/main-title.php:115
+msgid "Search Results For"
+msgstr ""
+
+#: parts/main-title.php:119 the-landscaper/parts/main-title.php:119
+msgid "Error 404"
+msgstr ""
+
+#: the-landscaper/inc/customizer.php:252
+msgid "Hide on Mobile"
+msgstr ""
+
+#: the-landscaper/inc/customizer.php:481
+msgid "Page header alignment"
+msgstr ""
+
+#: the-landscaper/inc/customizer.php:621
+msgid "Breadcrumbs background color"
+msgstr ""
+
+#: the-landscaper/inc/customizer.php:807
+msgid "Display the post metadata"
+msgstr ""
+
+#: the-landscaper/inc/customizer.php:808
+msgid ""
+"The date of the QT Latest News Block widget can be turned on/off in the "
+"widget settings"
+msgstr ""
+
+#: the-landscaper/inc/customizer.php:861
+msgid ""
+"Display if read more tag is used in post. Empty field will display default "
+"text"
+msgstr ""
+
+#: the-landscaper/inc/customizer.php:893
+msgid "On All"
+msgstr ""
+
+#: the-landscaper/inc/customizer.php:894
+msgid "On Blog Posts"
+msgstr ""
+
+#: the-landscaper/inc/customizer.php:895
+msgid "On Pages"
+msgstr ""
+
+#: the-landscaper/inc/customizer.php:896
+msgid "On Galleries"
+msgstr ""
+
+#: the-landscaper/inc/customizer.php:1220
+msgid ""
+"Select how many columns you want to display in the middle footer. Select 0 "
+"to hide the footer"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:337
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:339
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:377
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:393
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:912
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2618
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3670
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:394
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:395
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:397
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:399
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:401
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:1019
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2067
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2477
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2481
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2485
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2688
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2693
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2699
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3583
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3586
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3588
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3594
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3597
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3602
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3605
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: the-landscaper/inc/theme-actions.php:33
+msgid ""
+"Each header layout have specific color options. Please select the header "
+"layout and then change the colors of the header and navigation"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/parsers.php:42
+#: the-landscaper/radium-one-click-demo-install/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/parsers.php:67
+#: the-landscaper/radium-one-click-demo-install/importer/parsers.php:72
+#: the-landscaper/radium-one-click-demo-install/importer/parsers.php:263
+#: the-landscaper/radium-one-click-demo-install/importer/parsers.php:450
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/radium-importer.php:141
+msgid "Import Again"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/radium-importer.php:145
+msgid "Import Demo Data"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/radium-importer.php:181
+msgid "Demo already imported"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/radium-importer.php:364
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/radium-importer.php:422
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/radium-importer.php:497
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/radium-importer.php:519
+msgid "Site does not support widget"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/radium-importer.php:542
+msgid "Widget already exists"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/radium-importer.php:591
+msgid "Imported"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/radium-importer.php:594
+msgid "Imported to Inactive"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/radium-importer.php:601
+msgid "No Title"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:134
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:143
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:194
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:198
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:199
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:215
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:240
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of "
+"this site. For example, you may want to import all the entries as "
+"<code>admin</code>s entries."
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:269
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually "
+"changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:374
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:423
+msgid "Failed to import category %s"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:461
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:505
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:631
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:527
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:548
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:603
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:756
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:890
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:903
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:908
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:914
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:1014
+msgid "Import WordPress"
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:1021
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:1036
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: the-landscaper/radium-one-click-demo-install/importer/wordpress-importer.php:1037
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "The Landscaper"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://demo.qreativethemes.com/thelandscaper"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The Landscaper - A WordPress theme for lawn, landscaping and gardening "
+"companies, by QreativeThemes."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "QreativeThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/QreativeThemes/portfolio"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Front Page Fullwidth Slider"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Front Page Alternative Slider"
+msgstr ""
+
+#: comments.php:23 the-landscaper/comments.php:23
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: loop/blog/grid.php:27 the-landscaper/loop/blog/grid.php:27
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: single.php:73 the-landscaper/single.php:73
+#. translators: after that comes pagination like 1, 2, 3 ... 10
+msgctxt "frontend"
+msgid "Pages:"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:1206
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2427
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2473
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: the-landscaper/inc/tgmpa/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""

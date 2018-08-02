@@ -1,0 +1,25 @@
+/*--------------------------------------------------------------
+19.0 404 Page
+--------------------------------------------------------------*/
+
+.text-404 {
+	text-align: center;
+	margin-bottom: 60px;
+	
+	img {
+		margin-bottom: 30px;
+	}
+	
+	p {
+		font-size: 16px;
+		color: $text-color;
+	}
+	
+	.search-form {
+
+		@media(min-width: $screen-md) {
+			width: 500px;
+			margin: 40px auto 0;
+		}
+	}
+}
